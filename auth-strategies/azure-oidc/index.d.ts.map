@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../src/auth-strategies/azure-oidc/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,aAAa,CAAC;AAI7C,OAAO,EAAE,gBAAgB,EAAE,MAAM,SAAS,CAAC;AAE3C,cAAc,SAAS,CAAC;AACxB,cAAc,SAAS,CAAC;AACxB,cAAc,SAAS,CAAC;;AAExB,wBA2BsC"}
